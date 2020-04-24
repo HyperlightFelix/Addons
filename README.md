@@ -1,2 +1,2 @@
 # Addons
-All of my addons that i'll make public
+All of the addons that i'll make public.
